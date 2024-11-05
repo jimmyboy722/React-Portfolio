@@ -1,7 +1,4 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+// import project1 from "../assets/projects/project-1.jpg";
 
 export const HERO_TEXT = `I am a passionate brand new full stack developer with a knack for creating efficient and scalable web applications. Within the 6 months of hands-on experience I gained through the Bootcamp at Columbia Engineering, I have honed my skills in front-end technologies like React, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to learn from those who have been in the industry for years and work with them to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -20,7 +17,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "E-Commerce Website",
-    image: ,
+    image: "",
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
