@@ -2,6 +2,7 @@ import Hero from './components/hero';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import Technologies from './components/Technologies';
+import './App.css';
 
 const App = () => {
   return (

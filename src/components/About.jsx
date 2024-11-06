@@ -1,4 +1,5 @@
 import { ABOUT_TEXT } from "../constants";
+import soloIMG from "../assets/projects/solo.jpg";
 
 // import soloImg from "../assets/solo.jpg"
 const About = () => {
@@ -9,7 +10,7 @@ const About = () => {
         <div className="flex flex-wrap">
             <div className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex items-center justify-center">
-                    <img className='rounded-2xl'src='../assets/projects/solo.jpg' alt="Pic of James Eckman"/>
+                    <img className='rounded-2xl' src={soloIMG} alt="Pic of James Eckman"/>
                 </div>
             </div>
                 <div className="w-full lg:w-1/2">

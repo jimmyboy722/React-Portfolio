@@ -1,6 +1,18 @@
-#root {
+/* #root {
   max-width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+} */
+
+.animate-delay-150 {
+  animation-delay: 150ms;
+}
+
+.animate-delay-450 {
+  animation-delay: 450ms;
+}
+
+.animate-delay-300 {
+  animation-delay: 300ms;
 }

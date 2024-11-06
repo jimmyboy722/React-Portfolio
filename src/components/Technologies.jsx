@@ -10,16 +10,16 @@ const Technologies = () => {
         <h2 className="my-20 text-center text-4xl">Technologies</h2>
         <div className="flex flex-wrap items-center justify-center gap-4">
             <div className="rounded-2xl border-neutral-800 p-4">
-                <RiReactjsLine className="text-5xl text-cyan-500"/>
+                <RiReactjsLine className="animate-bounce text-5xl text-cyan-500"/>
             </div>
             <div className="rounded-2xl border-neutral-800 p-4">
-                <SiMongodb className="text-5xl text-green-400"/>
+                <SiMongodb  className="animate-bounce animate-delay-150 text-5xl text-green-400"/>
             </div>
             <div className="rounded-2xl border-neutral-800 p-4">
-                <BiLogoPostgresql className="text-5xl text-sky-800"/>
+                <BiLogoPostgresql className=" animate-bounce animate-delay-300 text-5xl text-sky-800"/>
             </div>            
             <div className="rounded-2xl border-neutral-800 p-4">
-                <FaNodeJs className="text-5xl text-green-500"/>
+                <FaNodeJs className="animate-bounce animate-delay-450 text-5xl text-green-500"/>
             </div>
         </div>
     </div>
