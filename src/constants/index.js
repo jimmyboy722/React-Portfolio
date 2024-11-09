@@ -16,11 +16,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
-    image: "",
+    title: "Avengers Karate School",
+    image: (src = "../assets/projects/Bootcamp.jpeg"),
+    link: "https://github.com/jamesgckman/avengers-karate-school",
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
+    technologies: ["HTML", "CSS", "Tailwind"],
   },
 ];
 
