@@ -15,7 +15,7 @@ const Navbar = () => {
         <ol className="flex flex-shrink-0 items-center gap-4 text-slate-600">
           <li className="m-8"><Link to className='hover:text-cyan-300'>About</Link></li>
           <li className="m-8"><Link to className='hover:text-cyan-300'>Technologies</Link></li>
-          <li className="m-8"><Link to className='hover:text-cyan-300'>Projects</Link></li ->
+          <li className="m-8"><Link to className='hover:text-cyan-300'>Projects</Link></li>
           <li className="m-8"><Link to className='hover:text-cyan-300'>Contact</Link></li>
         </ol> 
         {/* DISPLAY SOCIAL MEDIA ICONS WITH TAILWIND STYLING */}
