@@ -23,7 +23,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Avengers Karate School",
-    image: "./assets/projects/Bootcamp_Project.png",
+    image: "/assets/projects/Bootcamp_Project.png",
     link: "https://github.com/jamesgckman/avengers-karate-school",
     description:
       "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",

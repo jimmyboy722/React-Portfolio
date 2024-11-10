@@ -1,5 +1,4 @@
 import {HERO_TEXT} from '../constants';
-import buddy from '../assets/projects/buddy.jpeg';
 
 const Hero = () => {
   return (
@@ -16,7 +15,7 @@ const Hero = () => {
             </div>
               <div className="w-full lg:w-1/2 lg:p-8">
                <div className="flex justify-center">
-                <img className="rounded-md size-2/3" src={buddy} alt="James and Logan"/>
+                <img className="rounded-md size-2/3" src='/assets/projects/buddy.jpeg' alt="James and Logan"/>
               </div>
             </div>
         </div>

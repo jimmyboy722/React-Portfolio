@@ -13,7 +13,7 @@ const Navbar = () => {
             <p className='text-cyan-50 font-bold font-sans hover:text-cyan-300 text-3xl ps-8'>jE</p>
         </div>
         <ol className="flex flex-shrink-0 items-center gap-4 text-slate-600">
-          <li className="m-8"><Link to className='hover:text-cyan-300'>About</Link></li>
+          <li className="m-8"><a href='#aboutMe' className='hover:text-cyan-300'>About</a></li>
           <li className="m-8"><Link to className='hover:text-cyan-300'>Technologies</Link></li>
           <li className="m-8"><Link to className='hover:text-cyan-300'>Projects</Link></li>
           <li className="m-8"><Link to className='hover:text-cyan-300'>Contact</Link></li>

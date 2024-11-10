@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 } */
+html {
+  scroll-behavior: smooth;
+}
 
 .animate-delay-150 {
   animation-delay: 150ms;
