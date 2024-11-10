@@ -6,27 +6,32 @@ export const ABOUT_TEXT = `I am a dedicated, hard working and versatile full sta
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2024 - Present",
+    role: "Student - Full Stack Developer",
+    company: "Columbia Engineering",
+    description: ``,
+    technologies: [
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "mongoDB",
+    ],
   },
 ];
 
 export const PROJECTS = [
   {
     title: "Avengers Karate School",
-    image: (src = "../assets/projects/Bootcamp.jpeg"),
+    image: "./assets/projects/Bootcamp_Project.png",
     link: "https://github.com/jamesgckman/avengers-karate-school",
     description:
       "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
-    technologies: ["HTML", "CSS", "Tailwind"],
+    technologies: ["HTML", "CSS", "Tailwind", "JavaScript"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "123-456-7890",
+  email: "me@email.com",
 };
