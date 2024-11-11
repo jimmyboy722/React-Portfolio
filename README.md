@@ -77,7 +77,7 @@ The following resources will help you as they helped me understand and build a q
 ---
 
 ## Link
-- [Here]() is a link to my deployed portfolio on Netlify
+- [Here](https://james-eckman.netlify.app/) is a link to my deployed portfolio on Netlify
 
 ---
 
