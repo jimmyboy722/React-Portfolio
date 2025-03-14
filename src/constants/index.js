@@ -32,6 +32,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  phoneNo: "123-456-7890",
-  email: "me@email.com",
+  phoneNo: "845-325-2444",
+  email: "nexstepwebsolutions@gmail.com",
 };
