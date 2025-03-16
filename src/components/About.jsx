@@ -8,7 +8,7 @@ const About = () => {
         <div className="flex flex-wrap">
             <div className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex items-center justify-center">
-                    <img className='rounded-2xl' src='/assets/projects/solo.jpg' alt="Pic of James Eckman"/>
+                    <img className='rounded-2xl' src='/assets/projects/port pic 2.png' alt="Pic of James Eckman"/>
                 </div>
             </div>
                 <div className="w-full lg:w-1/2">
