@@ -29,6 +29,30 @@ export const PROJECTS = [
       "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
     technologies: ["HTML", "CSS", "Tailwind", "JavaScript"],
   },
+  {
+    title: "Professional Portfolio",
+    image: "/assets/projects/Portfolio_Project.png",
+    link: "https://github.com/jimmyboy722/Professional-Portfolio",
+    description:
+      "A simple example of a professional portfolio with a dynamic hero section, about me section, and projects section.",
+    technologies: ["HTML", "CSS"],
+  },
+  {
+    title: "Employee-Payroll Tracker",
+    image: "/assets/projects/Employee_Payroll_Project.png",
+    link: "https://github.com/jimmyboy722/Employee-Payroll",
+    description:
+      "A javaScript-driven employee payroll tracker with features like adding, updating, and deleting employees and their respective salaries.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    title: "Cats and Dogs",
+    image: "/assets/projects/Cats_and_Dogs.png",
+    link: "https://github.com/jimmyboy722/Cats-and-Dogs",
+    description:
+      "A weather app style website that allows you to search for the weather in any city in the world and see the weather forecast for the next 5 days, utilizing the OpenWeatherMap API.",
+    technologies: ["HTML", "CSS", "JavaScript, API's"],
+  },
 ];
 
 export const CONTACT = {
