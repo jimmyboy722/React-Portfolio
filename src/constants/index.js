@@ -27,7 +27,7 @@ export const PROJECTS = [
     link: "https://github.com/jamesgckman/avengers-karate-school",
     description:
       "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
-    technologies: ["HTML", "CSS", "Tailwind", "JavaScript"],
+    technologies: ["HTML", "CSS", "Tailwind", "JavaScript", "Google Maps API"],
   },
   {
     title: "Professional Portfolio",
@@ -39,7 +39,7 @@ export const PROJECTS = [
   },
   {
     title: "Employee-Payroll Tracker",
-    image: "/assets/projects/Employee_Payroll_Project.png",
+    image: "/assets/projects/Employee-Payroll Mockup.png",
     link: "https://github.com/jimmyboy722/Employee-Payroll",
     description:
       "A javaScript-driven employee payroll tracker with features like adding, updating, and deleting employees and their respective salaries.",
@@ -47,7 +47,7 @@ export const PROJECTS = [
   },
   {
     title: "Cats and Dogs",
-    image: "/assets/projects/Cats_and_Dogs.png",
+    image: "/assets/projects/Cats and Dogs mockup.png",
     link: "https://github.com/jimmyboy722/Cats-and-Dogs",
     description:
       "A weather app style website that allows you to search for the weather in any city in the world and see the weather forecast for the next 5 days, utilizing the OpenWeatherMap API.",
