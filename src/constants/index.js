@@ -26,12 +26,12 @@ export const PROJECTS = [
     image: "/assets/projects/Bootcamp_Project.png",
     link: "https://github.com/jamesgckman/avengers-karate-school",
     description:
-      "A fully functional martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
+      "A fully functional (fictional) martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
     technologies: ["HTML", "CSS", "Tailwind", "JavaScript", "Google Maps API"],
   },
   {
     title: "Professional Portfolio",
-    image: "/assets/projects/Portfolio_Project.png",
+    image: "/assets/projects/Prof-Port.png",
     link: "https://github.com/jimmyboy722/Professional-Portfolio",
     description:
       "A simple example of a professional portfolio with a dynamic hero section, about me section, and projects section.",
