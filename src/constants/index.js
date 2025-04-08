@@ -24,7 +24,7 @@ export const PROJECTS = [
   {
     title: "Avengers Karate School",
     image: "/assets/projects/Bootcamp_Project.png",
-    link: "https://github.com/jamesgckman/avengers-karate-school",
+    link: "https://miguelpena0101.github.io/TheAvengers/",
     description:
       "A fully functional (fictional) martial arts school website with features like signing up for classes, google maps, and a video demonstrating our teaching in action.",
     technologies: ["HTML", "CSS", "Tailwind", "JavaScript", "Google Maps API"],
@@ -38,7 +38,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS"],
   },
   {
-    title: "Employee-Payroll Tracker",
+    title: "Employee Payroll Tracker",
     image: "/assets/projects/Employee-Payroll Mockup.png",
     link: "https://github.com/jimmyboy722/Employee-Payroll",
     description:
@@ -48,7 +48,7 @@ export const PROJECTS = [
   {
     title: "Cats and Dogs",
     image: "/assets/projects/Cats and Dogs mockup.png",
-    link: "https://github.com/jimmyboy722/Cats-and-Dogs",
+    link: "https://jimmyboy722.github.io/Cats-and-Dogs/",
     description:
       "A weather app style website that allows you to search for the weather in any city in the world and see the weather forecast for the next 5 days, utilizing the OpenWeatherMap API.",
     technologies: ["HTML", "CSS", "JavaScript, API's"],
