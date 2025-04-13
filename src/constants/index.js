@@ -32,7 +32,7 @@ export const PROJECTS = [
   {
     title: "Professional Portfolio",
     image: "/assets/projects/Prof-Port.png",
-    link: "https://github.com/jimmyboy722/Professional-Portfolio",
+    link: "https://jimmyboy722.github.io/Professional-Portfolio/",
     description:
       "A simple example of a professional portfolio with a dynamic hero section, about me section, and projects section.",
     technologies: ["HTML", "CSS"],
@@ -40,7 +40,7 @@ export const PROJECTS = [
   {
     title: "Employee Payroll Tracker",
     image: "/assets/projects/Employee-Payroll Mockup.png",
-    link: "https://github.com/jimmyboy722/Employee-Payroll",
+    link: "https://jimmyboy722.github.io/Employee-Payroll/",
     description:
       "A javaScript-driven employee payroll tracker with features like adding, updating, and deleting employees and their respective salaries.",
     technologies: ["HTML", "CSS", "JavaScript"],
