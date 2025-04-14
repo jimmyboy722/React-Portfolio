@@ -53,6 +53,22 @@ export const PROJECTS = [
       "A weather app style website that allows you to search for the weather in any city in the world and see the weather forecast for the next 5 days, utilizing the OpenWeatherMap API.",
     technologies: ["HTML", "CSS", "JavaScript, API's"],
   },
+  {
+    title: "Burn After Readme",
+    image: "/assets/projects/Burnafterreadme.png",
+    link: "https://app.screencastify.com/v3/watch/CGoUxr6J69x7si2WxGY6/",
+    description:
+      "A README file generator made with node.js that is used for project repos to showcase what their project does along with their features. Check out the walkthrough video to see how it works!",
+    technologies: ["Node.js"],
+  },
+  {
+    title: "Eazy-E Commerce",
+    image: "/assets/projects/eazyecommerce.png",
+    link: "https://bootcampspot.instructuremedia.com/embed/5a0df8f6-d031-4794-ba46-75538abf7fb5",
+    description:
+      "A RESTful API that uses CRUD operations for database management for e-commerce platforms. Check out the walkthrough video to see how it works!",
+    technologies: ["Node.js, Express.js, PostgreSQL"],
+  },
 ];
 
 export const CONTACT = {
